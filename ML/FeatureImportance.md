@@ -20,3 +20,10 @@ Paper evaluate variable importance by permutating dependent variable <img src="h
 This book gives good example
 
 [All Models are Wrong, but Many are Useful: Learning a Variable's Importance by Studying an Entire Class of Prediction Models Simultaneously](https://arxiv.org/pdf/1801.01489.pdf)
+
+https://zhuanlan.zhihu.com/p/144553342
+
+[Definitions, methods, and applications in interpretable
+machine learning](https://www.pnas.org/content/116/44/22071)
+Bin Yu
+High level overview
