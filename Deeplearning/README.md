@@ -17,3 +17,7 @@ and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
 
 [learning representations by back-propagating errors -Nature](https://1drv.ms/b/s!ArvGoDOaycVx9xSRtqjhotX-jz8n?e=3y9aQ8)   
 [Learning Internal Representations by Error Propagation - book](https://web.stanford.edu/class/psych209a/ReadingsByDate/02_06/PDPVolIChapter8.pdf)
+
+
+### Application
+https://zhuanlan.zhihu.com/p/348060075
