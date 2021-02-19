@@ -10,5 +10,8 @@ Yoshua Bengio,Random Search,Hyper-parameter
 Feature selection  
 [kaggle](https://www.kaggle.com/dansbecker/permutation-importance)
 
+## Learning with abstention
+[Boosting with Abstention](https://cs.nyu.edu/~mohri/pub/rboost.pdf)  
+[Learning with Rejection](https://cs.nyu.edu/~mohri/pub/rej.pdf)  
 ## other
 [A Few Useful Things to Know About Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf)
