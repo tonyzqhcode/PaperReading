@@ -9,7 +9,7 @@
 [Introduction to Linear Algebra, Fifth Edition (2016)](http://math.mit.edu/~gs/linearalgebra/)    
 [18.06sc](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
 
-
+[youtube](https://www.youtube.com/watch?v=4csuTO7UTMo)
 
 #  Optimization
 
