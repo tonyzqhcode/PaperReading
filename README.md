@@ -17,3 +17,6 @@ Statistical concepts
 [贝叶斯优化: 一种更好的超参数调优方式](https://zhuanlan.zhihu.com/p/29779000)
 
 2021/01/09
+
+# other tools
+https://zhuanlan.zhihu.com/p/346319711
