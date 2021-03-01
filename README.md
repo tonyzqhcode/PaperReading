@@ -20,3 +20,5 @@ Statistical concepts
 
 # other tools
 https://zhuanlan.zhihu.com/p/346319711
+
+https://www.1point3acres.com/bbs/thread-720590-1-1.html
