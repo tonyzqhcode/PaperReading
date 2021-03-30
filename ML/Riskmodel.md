@@ -18,3 +18,4 @@ Continuous Dependent Variables for Variable Reduction and
 Scorecard Development](https://www.lexjansen.com/sesug/2014/SD-20.pdf)
 
 `WOE`
+[风控模型—WOE与IV指标的深入理解应用](https://zhuanlan.zhihu.com/p/80134853)
