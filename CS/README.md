@@ -10,6 +10,12 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 [How to handle large datasets in Python with Pandas and Dask](https://towardsdatascience.com/how-to-handle-large-datasets-in-python-with-pandas-and-dask-34f43a897d55)  
 [Processing Huge Dataset with Python](https://datascienceplus.com/processing-huge-dataset-with-python/)  
 
+[SettingwithCopyWarning: How to Fix This Warning in Pandas](https://www.dataquest.io/blog/settingwithcopywarning/)
+
+[Apply return multiple columns](https://stackoverflow.com/questions/23586510/return-multiple-columns-from-pandas-apply)  
+
+[pd.assign](https://stackoverflow.com/questions/48177914/why-use-pandas-assign-rather-than-simply-initialize-new-column)
+
 - Spark
 
 https://databricks.com/spark/getting-started-with-apache-spark
