@@ -9,3 +9,9 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 [A Beginner’s Guide to Optimizing Pandas Code for Speed](https://engineering.upside.com/a-beginners-guide-to-optimizing-pandas-code-for-speed-c09ef2c6a4d6)  
 [How to handle large datasets in Python with Pandas and Dask](https://towardsdatascience.com/how-to-handle-large-datasets-in-python-with-pandas-and-dask-34f43a897d55)  
 [Processing Huge Dataset with Python](https://datascienceplus.com/processing-huge-dataset-with-python/)  
+
+- Spark
+
+https://databricks.com/spark/getting-started-with-apache-spark
+
+https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/
