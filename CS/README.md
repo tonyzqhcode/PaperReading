@@ -14,7 +14,9 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 
 [Apply return multiple columns](https://stackoverflow.com/questions/23586510/return-multiple-columns-from-pandas-apply)  
 
-[pd.assign](https://stackoverflow.com/questions/48177914/why-use-pandas-assign-rather-than-simply-initialize-new-column)
+[pd.assign](https://stackoverflow.com/questions/48177914/why-use-pandas-assign-rather-than-simply-initialize-new-column)  
+
+[Python Multiprocess](https://sebastianraschka.com/Articles/2014_multiprocessing.html) by Sebastian
 
 - Spark
 
