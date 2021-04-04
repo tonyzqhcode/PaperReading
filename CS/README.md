@@ -16,7 +16,9 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 
 [pd.assign](https://stackoverflow.com/questions/48177914/why-use-pandas-assign-rather-than-simply-initialize-new-column)  
 
-[Python Multiprocess](https://sebastianraschka.com/Articles/2014_multiprocessing.html) by Sebastian
+[Python Multiprocess](https://sebastianraschka.com/Articles/2014_multiprocessing.html) by Sebastian  
+
+[if __name__ == "__main__":](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
 
 `Python Memory`  
 [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)    
