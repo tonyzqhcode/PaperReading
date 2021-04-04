@@ -18,6 +18,15 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 
 [Python Multiprocess](https://sebastianraschka.com/Articles/2014_multiprocessing.html) by Sebastian
 
+`Python Memory`  
+[Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)    
+[Memory management in Python](https://rushter.com/blog/python-memory-managment/)  
+[Python Garbage Collection: What It Is and How It Works](https://stackify.com/python-garbage-collection/)  
+[Dismissing Python Garbage Collection at Instagram](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)  
+
+`Unit Test`
+[You Still Don’t Know How to Do Unit Testing (and Your Secret is Safe with Me)](https://stackify.com/unit-testing-basics-best-practices/)
+
 - Spark
 
 https://databricks.com/spark/getting-started-with-apache-spark
