@@ -22,7 +22,8 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)    
 [Memory management in Python](https://rushter.com/blog/python-memory-managment/)  
 [Python Garbage Collection: What It Is and How It Works](https://stackify.com/python-garbage-collection/)  
-[Dismissing Python Garbage Collection at Instagram](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)  
+[Dismissing Python Garbage Collection at Instagram](https://instagram-engineering.com/dismissing-python-garbage-collection-at-instagram-4dca40b29172)   
+[Understanding Data Types in Python](https://jakevdp.github.io/PythonDataScienceHandbook/02.01-understanding-data-types.html)
 
 `Unit Test`
 [You Still Don’t Know How to Do Unit Testing (and Your Secret is Safe with Me)](https://stackify.com/unit-testing-basics-best-practices/)
