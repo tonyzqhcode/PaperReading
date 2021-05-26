@@ -20,6 +20,8 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 
 [if __name__ == "__main__":](https://stackoverflow.com/questions/419163/what-does-if-name-main-do)
 
+[Effective Python](https://tomaugspurger.github.io/)
+
 `Python Memory`  
 [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)    
 [Memory management in Python](https://rushter.com/blog/python-memory-managment/)  
