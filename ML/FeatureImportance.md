@@ -30,7 +30,20 @@ Paper provide a good overview of existing feature importance measurment methods.
 [Bias in random forest variable importance measures: Illustrations,sources and a solution](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-25).
 Paper shows CRT based RF will favor attributes with more cut-off points. 
 
+
+# From model importance to feature importance
+
+[Random forest importance measures are NOT important](https://eranraviv.com/random-forest-importance-measures-are-not-important/)
+ - *Key Idea*: Prediction from pure-prediction algorithm is accurate, not so much because of a specific/particular variable, but because of the interim non-linear transformation which includes many variables. Plots which show relative “importance measure”- a the result of numerical computation done on random subsets on the algorithm’s path towards prediction- falesly award a feel of absolute importance. That is misleading.
+ 
+ https://arxiv.org/abs/2001.04295
+
+# Others
+
 https://zhuanlan.zhihu.com/p/144553342
+
+
+
 
 [Definitions, methods, and applications in interpretable
 machine learning](https://www.pnas.org/content/116/44/22071)
