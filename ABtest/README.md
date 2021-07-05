@@ -1,3 +1,5 @@
+[Lesson 25: Power of a Statistical Test](https://online.stat.psu.edu/stat415/lesson/25)
+
 https://research.fb.com/blog/2020/10/increasing-the-sensitivity-of-a-b-tests-by-utilizing-the-variance-estimates-of-experimental-units/
 
 https://www.wired.com/story/facebook-click-gap-news-feed-changes/
