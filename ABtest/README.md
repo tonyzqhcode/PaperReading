@@ -58,3 +58,5 @@ https://www.youtube.com/watch?v=DI9JiG-Ow9g
 
 https://experienceleague.adobe.com/docs/target/using/activities/abtest/aa-testing.html?lang=en#best-practice
 
+[Increasing experimentation accuracy and speed by using control variates](https://codeascraft.com/2021/06/02/increasing-experimentation-accuracy-and-speed-by-using-control-variates/)
+
