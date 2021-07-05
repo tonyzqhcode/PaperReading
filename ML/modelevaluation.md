@@ -20,9 +20,10 @@ https://zhuanlan.zhihu.com/p/360765777
 The fact that a number is between zero and one is not enough for calling it a probability!
 ```
 
-[Python’s «predict_proba» Doesn’t Actually Predict Probabilities (and How to Fix It)](https://towardsdatascience.com/pythons-predict-proba-doesn-t-actually-predict-probabilities-and-how-to-fix-it-f582c21d63fc) 
-[Predicting Good Probabilities With Supervised Learning](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf)    
-[On Calibration of Modern Neural Networks](https://arxiv.org/pdf/1706.04599.pdf)
+[Python’s «predict_proba» Doesn’t Actually Predict Probabilities (and How to Fix It)](https://towardsdatascience.com/pythons-predict-proba-doesn-t-actually-predict-probabilities-and-how-to-fix-it-f582c21d63fc)    
+[Predicting Good Probabilities With Supervised Learning](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf)      
+[On Calibration of Modern Neural Networks](https://arxiv.org/pdf/1706.04599.pdf)   
 
 https://en.wikipedia.org/wiki/Isotonic_regression
-  
+ 
+ [H2O model calibrate](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/algo-params/calibrate_model.html)
