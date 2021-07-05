@@ -11,6 +11,8 @@ A practical guide for medical statisticians](https://www.tau.ac.il/~saharon/Boot
 
 https://zhuanlan.zhihu.com/p/360765777
 
+[Do machines actually beat doctors? ROC curves and performance metrics](https://lukeoakdenrayner.wordpress.com/2017/12/06/do-machines-actually-beat-doctors-roc-curves-and-performance-metrics/)
+
 
 # Probability Misclibration 
 
