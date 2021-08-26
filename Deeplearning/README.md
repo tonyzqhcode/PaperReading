@@ -21,3 +21,14 @@ and their Compositionality](https://arxiv.org/pdf/1310.4546.pdf)
 
 ### Application
 https://zhuanlan.zhihu.com/p/348060075
+
+#### 
+[Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
+
+#### mei tuan
+[Modeling the Sequential Dependence among Audience
+Multi-step Conversions with Multi-task Learning in Targeted
+Display Advertising](https://arxiv.org/pdf/2105.08489.pdf)
+
+[Modeling the Field Value Variations and Field
+Interactions Simultaneously for Fraud Detection](https://arxiv.org/pdf/2008.05600.pdf)
