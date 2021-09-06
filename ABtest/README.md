@@ -1,5 +1,20 @@
 [Lesson 25: Power of a Statistical Test](https://online.stat.psu.edu/stat415/lesson/25)
 
+#### [Fighting Financial Fraud with Targeted Friction](https://medium.com/airbnb-engineering/fighting-financial-fraud-with-targeted-friction-82d950d8900e)   
+
+
+````diff
+Key: Airbnb, A/B test,Fraud,Imbalance data,Delta methods 
+````
+Abstract:
+This article described a way to determine the threshold which will trigger ‘fraction’. A loss function which includes the cost of false positive, false negative, and true negative have been used. A key part of the loss function is the ‘churn’ caused by ‘fraction’, which need to be estimated by using A/B test.     
+The A/B test is a imbalance A/B test and delta methods have been used to estimate the variance. 
+
+
+[Applying the Delta Method in Metric Analytics:
+A Practical Guide with Novel Ideas
+](https://arxiv.org/pdf/1803.06336.pdf)  
+
 https://research.fb.com/blog/2020/10/increasing-the-sensitivity-of-a-b-tests-by-utilizing-the-variance-estimates-of-experimental-units/
 
 https://www.wired.com/story/facebook-click-gap-news-feed-changes/
