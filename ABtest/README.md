@@ -15,6 +15,16 @@ The A/B test is a imbalance A/B test and delta methods have been used to estimat
 A Practical Guide with Novel Ideas
 ](https://arxiv.org/pdf/1803.06336.pdf)  
 
+#### [Experimentation & Measurement for Search Engine Optimization](https://medium.com/airbnb-engineering/experimentation-measurement-for-search-engine-optimization-b64136629760)
+````diff
+Key: Airbnb,A/B test,Search Engine Optimization(SEO),DID
+````
+Abstract:  
+Growth team want to test if a new page design can improve search engine ranking. However, search engine ranking cannot be measured directly. So, website traffic is used as a proxy.
+There are several limitations for applying A/B test at user’s level. The biggest change is that the unit of randomization is not fixed, and users can get different treatment. Hence, a market-level experiment is designed, and a specific canonical URL is unit of randomization 
+DID was used to identify the treatment effect. 
+
+
 https://research.fb.com/blog/2020/10/increasing-the-sensitivity-of-a-b-tests-by-utilizing-the-variance-estimates-of-experimental-units/
 
 https://www.wired.com/story/facebook-click-gap-news-feed-changes/
