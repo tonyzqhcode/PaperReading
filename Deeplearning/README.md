@@ -32,3 +32,7 @@ Display Advertising](https://arxiv.org/pdf/2105.08489.pdf)
 
 [Modeling the Field Value Variations and Field
 Interactions Simultaneously for Fraud Detection](https://arxiv.org/pdf/2008.05600.pdf)
+
+####KG
+[美团商品知识图谱的构建及应用](https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html)
+

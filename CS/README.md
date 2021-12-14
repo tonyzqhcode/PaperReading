@@ -37,3 +37,7 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 https://databricks.com/spark/getting-started-with-apache-spark
 
 https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/
+
+- Coding
+
+[PEP8](https://www.python.org/dev/peps/pep-0008/)
