@@ -24,7 +24,23 @@ Growth team want to test if a new page design can improve search engine ranking.
 There are several limitations for applying A/B test at user’s level. The biggest change is that the unit of randomization is not fixed, and users can get different treatment. Hence, a market-level experiment is designed, and a specific canonical URL is unit of randomization 
 DID was used to identify the treatment effect. 
 
+#### Inference
 
+https://www.aeaweb.org/conference/cont-ed/2018-webcasts 
+
+https://www.aeaweb.org/conference/cont-ed/2020-webcasts  
+
+https://idss.mit.edu/calendar/idss-distinguished-seminar-susan-athey-stanford-university/  
+
+https://www.zhihu.com/question/266812683  
+
+https://zhuanlan.zhihu.com/p/356635697 
+
+https://zhuanlan.zhihu.com/p/377156645  
+
+https://zhuanlan.zhihu.com/p/88173582 
+
+#####  
 https://research.fb.com/blog/2020/10/increasing-the-sensitivity-of-a-b-tests-by-utilizing-the-variance-estimates-of-experimental-units/
 
 https://www.wired.com/story/facebook-click-gap-news-feed-changes/
