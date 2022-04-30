@@ -26,6 +26,8 @@ DID was used to identify the treatment effect.
 
 #### Inference
 
+[Mastering Mostly Harmless Econometrics (Alberto Abadie, Joshua Angrist, and Christopher Walters)](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
+
 https://www.aeaweb.org/conference/cont-ed/2018-webcasts 
 
 https://www.aeaweb.org/conference/cont-ed/2020-webcasts  
