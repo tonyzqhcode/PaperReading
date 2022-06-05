@@ -3,6 +3,10 @@
 
 Tag:`Maxime Beauchemin`,`2021`
 
+
+Video: https://www.montecarlodata.com/impact-2021-the-rise-and-downfall-of-the-data-engineer/ 
+
+
 **1, things move to cloud**  
 This movement away from on-prem and open source solutions to the cloud and managed SaaS frees up data engineering resources to work on tasks unrelated to database management and reduced the running time.
 With data engineers no longer responsible for managing compute and storage, their role is changing from infrastructure development to more performance-based elements of the data stack, or even specialized roles.
@@ -49,3 +53,13 @@ Tag:`Maxime Beauchemin`,`2017`
 Tag:`Maxime Beauchemin`,`2021`
 
 [How Airbnb Achieved Metric Consistency at Scale](https://medium.com/airbnb-engineering/how-airbnb-achieved-metric-consistency-at-scale-f23cc53dea70)
+
+[Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770) 
+
+[A Beginner’s Guide to Data Engineering — Part I](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
+`Data Engineering: The Close Cousin of Data Science`
+
+[A Beginner’s Guide to Data Engineering — Part II](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
+`Data Modeling, Data Partitioning, Airflow, and ETL Best Practices`
+
+[Query Optimization at Snowflake (Jiaqi Yan, SnowflakeDB)](https://www.youtube.com/watch?v=CPWn1SZUZqE)

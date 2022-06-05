@@ -27,3 +27,5 @@ The fact that a number is between zero and one is not enough for calling it a pr
 https://en.wikipedia.org/wiki/Isotonic_regression
  
  [H2O model calibrate](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/algo-params/calibrate_model.html)
+
+[Classifier calibration](https://towardsdatascience.com/classifier-calibration-7d0be1e05452)

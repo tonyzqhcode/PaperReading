@@ -41,3 +41,23 @@ https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/
 - Coding
 
 [PEP8](https://www.python.org/dev/peps/pep-0008/)
+
+ 
+- self-learning
+https://csdiy.wiki/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/
+
+http://www.juyang.co/phd%E8%BD%AC%E8%A1%8C%E4%B9%8B%E8%B7%AF/
+
+https://yukieyun.net/takeaway/change-career-to-sde/
+
+OMSCS
+https://eugeneyan.com/writing/georgia-tech-omscs-faq/ 
+
+https://medium.com/@adrianchang/omscs-will-it-land-me-a-job-6cec7a84dcde 
+
+https://medium.com/@adrianchang/georgia-tech-omscs-faq-f9de0cb2fce1 
+
+https://omshub.org/ 
+
+
+- 
