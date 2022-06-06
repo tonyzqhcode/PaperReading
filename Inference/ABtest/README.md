@@ -24,6 +24,15 @@ Growth team want to test if a new page design can improve search engine ranking.
 There are several limitations for applying A/B test at user’s level. The biggest change is that the unit of randomization is not fixed, and users can get different treatment. Hence, a market-level experiment is designed, and a specific canonical URL is unit of randomization 
 DID was used to identify the treatment effect. 
 
+
+####[It All Depends]https://tech.instacart.com/it-all-depends-4bb7b22e854b
+
+````diff
+Key: Instacart,Regression
+````
+
+How randomized, controlled experiments and multivariate regression are used to continuously improve the grocery delivery engine @ Instacart.
+
 #### Inference
 
 [Mastering Mostly Harmless Econometrics (Alberto Abadie, Joshua Angrist, and Christopher Walters)](https://www.aeaweb.org/conference/cont-ed/2020-webcasts)
@@ -41,6 +50,14 @@ https://zhuanlan.zhihu.com/p/356635697
 https://zhuanlan.zhihu.com/p/377156645  
 
 https://zhuanlan.zhihu.com/p/88173582 
+
+# DID
+https://www.xuehua.us/a/5eb8035d86ec4d601e4712b0 
+https://www.ulunwen.com/archives/103726
+https://www.aeaweb.org/articles/pdf/doi/10.1257/aer.102.1.396
+https://www.xuehua.us/a/5eb8035d86ec4d601e4712b0
+https://zhuanlan.zhihu.com/p/159428543
+
 
 #####  
 https://research.fb.com/blog/2020/10/increasing-the-sensitivity-of-a-b-tests-by-utilizing-the-variance-estimates-of-experimental-units/
@@ -104,3 +121,29 @@ https://experienceleague.adobe.com/docs/target/using/activities/abtest/aa-testin
 [Increasing experimentation accuracy and speed by using control variates](https://codeascraft.com/2021/06/02/increasing-experimentation-accuracy-and-speed-by-using-control-variates/)
 
 # test
+
+
+## A/B test Udacity course
+
+https://towardsdatascience.com/a-summary-of-udacity-a-b-testing-course-9ecc32dedbb1
+
+https://regularization.medium.com/notes-for-central-limit-theorem-f5661842e91c
+
+https://regularization.medium.com/udacity-a-b-testing-lesson-4-designing-an-experiment-d7eba1c8ba6e
+
+https://nancyyanyu.github.io/posts/17c5bb19/ 
+
+https://www.evanmiller.org/how-not-to-run-an-ab-test.html
+
+
+# Eng blog
+
+https://netflixtechblog.com/tagged/ab-testing
+
+https://medium.com/pinterest-engineering/tagged/ab-testing 
+
+
+https://github.com/eugeneyan/applied-ml 
+`a reading list`
+
+

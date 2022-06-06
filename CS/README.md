@@ -22,6 +22,8 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 
 [Effective Python](https://tomaugspurger.github.io/)
 
+https://realpython.com/python-kwargs-and-args/ 
+
 `Python Memory`  
 [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)    
 [Memory management in Python](https://rushter.com/blog/python-memory-managment/)  
@@ -31,6 +33,11 @@ http://palmstroem.blogspot.com/2012/05/lambda-calculus-for-absolute-dummies.html
 
 `Unit Test`
 [You Still Don’t Know How to Do Unit Testing (and Your Secret is Safe with Me)](https://stackify.com/unit-testing-basics-best-practices/)
+
+
+[Python for Data Structures, Algorithms, and Interviews!](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc)
+
+[The Ultimate Guide to Acing Coding Interviews for Data Scientists](https://towardsdatascience.com/the-ultimate-guide-to-acing-coding-interviews-for-data-scientists-d45c99d6bddc) 
 
 - Spark
 
@@ -44,11 +51,34 @@ https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/
 
  
 - self-learning
-https://csdiy.wiki/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/
+
+[自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)  
+[CS自学指南](https://csdiy.wiki/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/)  
+
+[名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)  
 
 http://www.juyang.co/phd%E8%BD%AC%E8%A1%8C%E4%B9%8B%E8%B7%AF/
 
 https://yukieyun.net/takeaway/change-career-to-sde/
+
+
+CS61B
+
+https://sp21.datastructur.es/index.html
+video/lecture
+homework/lab
+project 
+
+10 hours a week 
+
+
+CS61B +CS170 
+
+算法，数据结构
+操作系统
+网络
+数据库
+
 
 OMSCS
 https://eugeneyan.com/writing/georgia-tech-omscs-faq/ 
@@ -60,4 +90,5 @@ https://medium.com/@adrianchang/georgia-tech-omscs-faq-f9de0cb2fce1
 https://omshub.org/ 
 
 
+[OMSCS Course Planner](https://docs.google.com/spreadsheets/d/153zawsUyhzwrgBGHo5t_IHGBWnAoKwp1wxpyY39Z7m0/edit#gid=1823713580)
 - 
