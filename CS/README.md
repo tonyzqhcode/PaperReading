@@ -53,7 +53,8 @@ https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/
 - self-learning
 
 [自学计算机科学](https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md)  
-[CS自学指南](https://csdiy.wiki/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/)  
+[CS自学指南](https://csdiy.wiki/%E5%A5%BD%E4%B9%A6%E6%8E%A8%E8%8D%90/) 
+[Open Source Society University](https://github.com/ossu/computer-science) 
 
 [名校公开课程评价网](https://conanhujinming.github.io/comments-for-awesome-courses/)  
 
@@ -91,4 +92,12 @@ https://omshub.org/
 
 
 [OMSCS Course Planner](https://docs.google.com/spreadsheets/d/153zawsUyhzwrgBGHo5t_IHGBWnAoKwp1wxpyY39Z7m0/edit#gid=1823713580)
+
+# java
+https://www.w3schools.com/java/java_modifiers.asp
+https://www.tutorialspoint.com/java/java_polymorphism.htm
+
+# python
+https://jakevdp.github.io/PythonDataScienceHandbook/02.01-understanding-data-types.html
+
 - 

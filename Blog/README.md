@@ -23,4 +23,7 @@ test
 `career`
 [FB DE](https://posts.careerengine.us/p/5dd46c9bca266e1f9ed187d7)
 
-[FB DS Analytics说点真心话](https://www.1point3acres.com/bbs/thread-604150-1-1.html)
+[FB DS Analytics说点真心话](https://www.1point3acres.com/bbs/thread-604150-1-1.html) 
+
+[Deep Entity Classification: Abusive Account Detection for Online Social Networks](https://research.facebook.com/publications/deep-entity-classification-abusive-account-detection-for-online-social-networks/)
+`Fake Account`,`FB`,`Meta`
