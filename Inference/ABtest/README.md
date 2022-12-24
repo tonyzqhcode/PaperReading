@@ -11,6 +11,19 @@ This article described a way to determine the threshold which will trigger ‘fr
 The A/B test is a imbalance A/B test and delta methods have been used to estimate the variance. 
 
 
+#### [Spotting Suspicious Link Behavior with fBox: An Adversarial Perspective](http://nshah.net/publications/FBOX.ICDM.2014.pdf)
+````diff
+Key: Fraud
+````
+
+
+#### [Uncovering Large Groups of Active Malicious Accounts in Online Social Networks](https://users.cs.duke.edu/~qiangcao/publications/synchrotrap.pdf)
+````diff
+Key: Fraud
+````
+
+
+
 [Applying the Delta Method in Metric Analytics:
 A Practical Guide with Novel Ideas
 ](https://arxiv.org/pdf/1803.06336.pdf)  

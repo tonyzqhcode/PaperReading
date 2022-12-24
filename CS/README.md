@@ -49,6 +49,11 @@ https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/
 
 [PEP8](https://www.python.org/dev/peps/pep-0008/)
 
+
+- leetcode
+
+[Leetcode面试高频题分类刷题总结](https://zhuanlan.zhihu.com/p/349940945) 
+[Leetcode刷题前应该具备哪些入门知识？](https://zhuanlan.zhihu.com/p/463610723)
  
 - self-learning
 
@@ -61,6 +66,11 @@ https://www.udemy.com/course/apache-spark-programming-in-python-for-beginners/
 http://www.juyang.co/phd%E8%BD%AC%E8%A1%8C%E4%B9%8B%E8%B7%AF/
 
 https://yukieyun.net/takeaway/change-career-to-sde/
+
+Course
+https://docs.google.com/spreadsheets/d/1gh9ge01PqAUxCAG1xCbgwi5_TzyP4ZMTmRPGJGDNGfQ/edit#gid=1610188906 
+
+
 
 
 CS61B

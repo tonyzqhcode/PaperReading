@@ -7,3 +7,7 @@
 [Optimizing New User Experience in Online Services](https://sci-hub.se/10.1109/DSAA.2018.00057)
 
 `Ken Soong,Xin Fu,Yang Zhou`
+
+[美团外卖搜索基于Elasticsearch的优化实践](https://zhuanlan.zhihu.com/p/584648660)
+
+[美团公开外卖订单分配算法](https://www.zhihu.com/question/496861462/answer/2210858886)
