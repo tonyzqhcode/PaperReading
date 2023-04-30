@@ -63,3 +63,8 @@ Tag:`Maxime Beauchemin`,`2021`
 `Data Modeling, Data Partitioning, Airflow, and ETL Best Practices`
 
 [Query Optimization at Snowflake (Jiaqi Yan, SnowflakeDB)](https://www.youtube.com/watch?v=CPWn1SZUZqE)
+
+
+[How Discord Stores Billions of Messages](https://medium.com/discord-engineering/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
+
+[HOW DISCORD STORES TRILLIONS OF MESSAGES](https://discord.com/blog/how-discord-stores-trillions-of-messages)

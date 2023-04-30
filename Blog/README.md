@@ -27,3 +27,43 @@ test
 
 [Deep Entity Classification: Abusive Account Detection for Online Social Networks](https://research.facebook.com/publications/deep-entity-classification-abusive-account-detection-for-online-social-networks/)
 `Fake Account`,`FB`,`Meta`
+
+# Tech Blog
+
+Google??? 
+
+[Amazon Science Blog](https://www.amazon.science/blog)  
+
+[Facebook](https://research.facebook.com/blog/#all-the-latest--blog---)
+[Engineering at Meta](https://engineering.fb.com/)
+[Analytics at Meta](https://medium.com/@AnalyticsAtMeta)
+
+[Linkedin](https://engineering.linkedin.com/teams/data/data-science)
+
+[Airbnb](https://medium.com/airbnb-engineering/data/home)
+
+[Netflix](https://netflixtechblog.com/tagged/data-science)
+[Netflix AB Testing](https://netflixtechblog.com/tagged/ab-testing)
+
+
+[Instagram](https://instagram-engineering.com/tagged/data)
+[Meta Instagram](https://engineering.fb.com/tag/instagram/)
+
+[Doordash](https://doordash.engineering/category/data-platform/)
+
+[Lyft](https://eng.lyft.com/tagged/data-science)
+
+[Uber](https://www.uber.com/blog/engineering/data/)
+
+[Instacart](https://tech.instacart.com/tagged/data-science)
+
+[Pinterest](https://medium.com/pinterest-engineering/tagged/data-science)
+[Pinterest -AB Testing](https://medium.com/pinterest-engineering/tagged/ab-testing )
+
+[Wayfair](https://www.aboutwayfair.com/tag/data-science)
+
+# Course
+https://orie5355.github.io/Fall_2022/syllabus/
+
+https://www.coursera.org/learn/crash-course-in-causality 
+

@@ -151,11 +151,6 @@ https://www.evanmiller.org/how-not-to-run-an-ab-test.html
 
 # Eng blog
 
-https://netflixtechblog.com/tagged/ab-testing
-
-https://medium.com/pinterest-engineering/tagged/ab-testing 
-
-
 https://github.com/eugeneyan/applied-ml 
 `a reading list`
 
