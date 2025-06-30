@@ -25,6 +25,9 @@ https://zhuanlan.zhihu.com/p/348060075
 #### 
 [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf)  
 
+#### AMEX
+[Sequential Deep Learning for Credit Risk Monitoring with Tabular Financial Data](https://arxiv.org/abs/2012.15330)
+
 #### mei tuan
 [Modeling the Sequential Dependence among Audience
 Multi-step Conversions with Multi-task Learning in Targeted
@@ -33,6 +36,6 @@ Display Advertising](https://arxiv.org/pdf/2105.08489.pdf)
 [Modeling the Field Value Variations and Field
 Interactions Simultaneously for Fraud Detection](https://arxiv.org/pdf/2008.05600.pdf)
 
-####KG
+####  KG
 [美团商品知识图谱的构建及应用](https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html)
 
