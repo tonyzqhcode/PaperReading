@@ -8,6 +8,7 @@ https://zhuanlan.zhihu.com/p/144553342
 
 Understanding variable importances in forests of randomized trees
 
+[Trees, Bagging, Random Forests and Boosting (Trevor Hastie, Stanford University)](https://faculty.cc.gatech.edu/~hic/CS7616/pdf/lecture5.pdf)
 
 ## Boosting 
 Greedy function approximation a gradient boosting machine

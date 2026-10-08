@@ -11,6 +11,14 @@
 `Ya Xu,David Mease`
 
 
+[Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36299.pdf)
+`Kerry Rodden, Hilary Hutchinson, and Xin Fu`
+
+**Summary:** the HEART framework
+
+[Accurately interpreting clickthrough data as implicit feedback](https://www.cs.cornell.edu/~tj/publications/joachims_etal_05a.pdf)
+`Thorsten Joachims, Laura Granka, Bing Pan, Helene Hembrooke, Geri Gay`
+
 [Beyond Success Rate: Utility as a Search Quality Metric for Online Experiments](https://sci-hub.se/10.1145/3132847.3132850)
 
 `Widad Machmouchi, Ahmed H. Awadallah, Imed Zitouni, Georg Buscher`
@@ -18,6 +26,9 @@
 [Beyond Clicks: Query Reformulation as a Predictor of Search Satisfaction](https://sci-hub.se/10.1145/2505515.2505682)
 
 `Ahmed Hassan, Xiaolin Shi, Nick Craswell, Bill Ramsey`
+
+[Beyond DCG: user behavior as a predictor of a successful search](https://dl.acm.org/doi/pdf/10.1145/1718487.1718515)
+`Ahmed Hassan, Rosie Jones, Kristina Lisa Klinkner`
 
 [Detecting Good Abandonment in Mobile Search](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/williams_www2016_good_abandonment.pdf)
 

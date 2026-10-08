@@ -28,4 +28,8 @@ https://en.wikipedia.org/wiki/Isotonic_regression
  
  [H2O model calibrate](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/algo-params/calibrate_model.html)
 
-[Classifier calibration](https://towardsdatascience.com/classifier-calibration-7d0be1e05452)
+[Classifier calibration](https://towardsdatascience.com/classifier-calibration-7d0be1e05452) 
+
+[Isotonic regression(Wiki)](https://en.wikipedia.org/wiki/Isotonic_regression#cite_note-2)
+
+[Calibration Techniques and it’s importance in Machine Learning](https://kingsubham27.medium.com/calibration-techniques-and-its-importance-in-machine-learning-71bec997b661)

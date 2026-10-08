@@ -39,3 +39,7 @@ Interactions Simultaneously for Fraud Detection](https://arxiv.org/pdf/2008.0560
 ####  KG
 [美团商品知识图谱的构建及应用](https://tech.meituan.com/2021/09/02/meituan-commodity-nlp-practice.html)
 
+
+## Project 
+
+[The Art of Detection: An Exploration of Strategies for Distinguishing AI-Generated Images from Real Images](https://medium.com/@m.corbinevans/the-art-of-detection-an-exploration-of-strategies-for-distinguishing-ai-generated-images-from-real-83dafff75f8d)

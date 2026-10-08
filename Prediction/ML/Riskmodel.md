@@ -19,3 +19,9 @@ Scorecard Development](https://www.lexjansen.com/sesug/2014/SD-20.pdf)
 
 `WOE`
 [风控模型—WOE与IV指标的深入理解应用](https://zhuanlan.zhihu.com/p/80134853)
+
+
+[Credit-Risk-Analysis
+](https://github.com/SannketNikam/Credit-Risk-Analysis)
+
+[XGBoost for Interpretable Credit Models](https://wandb.ai/tim-w/credit_scorecard/reports/XGBoost-for-Interpretable-Credit-Models--VmlldzoxODI0NDgx)
